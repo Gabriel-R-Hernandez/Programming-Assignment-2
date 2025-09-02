@@ -14,4 +14,4 @@ Then I reshaped it into a 10×10 matrix to organize the numbers neatly.
 I printed the matrix to check if it looked right.
 After that, I filtered out the numbers divisible by 3 using a condition.
 I printed those results to make sure the filter worked. 
-Lastly, I saved them into a file called divisible_by_3.npy.
+Lastly, I saved them into a file called div_by_3.npy.
